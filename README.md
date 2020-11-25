@@ -6,14 +6,14 @@
 
 #### For App:
 
-_Morgan_ (real-time notifications of requests in the terminal)
-_Cors_ (prevents CORS errors with simple requests)
-_Helmet_ (protects sensitive header information)
-_Dotenv_ (imports from the .env file to process.env object for access)
+__Morgan__ (real-time notifications of requests in the terminal)  
+__Cors__ (prevents CORS errors with simple requests)  
+__Helmet__ (protects sensitive header information)  
+__Dotenv__ (imports from the .env file to process.env object for access)  
 
 #### For Development:
 
-_NodeMon_ (dev server that auto-refreshes when changes are made)
-_Mocha_ (a testing structure package)
-_Chai_ (assertion functions package)
-_Supertest_ (package used to test HTTP calls)
+__NodeMon__ (dev server that auto-refreshes when changes are made)  
+__Mocha__ (a testing structure package)  
+__Chai__ (assertion functions package)  
+__Supertest__ (package used to test HTTP calls)  
